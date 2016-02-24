@@ -1,0 +1,66 @@
+{
+  "_args": [
+    [
+      "../sso/",
+      "/home/matt/dev/repo/personal/apps/node/wmod-api"
+    ]
+  ],
+  "_from": "../sso",
+  "_id": "sso@0.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/sso",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": null,
+    "raw": "../sso/",
+    "rawSpec": "../sso/",
+    "scope": null,
+    "spec": "/home/matt/dev/repo/personal/apps/node/sso",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../sso",
+  "_shasum": "78c77ecf54b2cb13caf0b040e7293aff8276bfb7",
+  "_shrinkwrap": null,
+  "_spec": "../sso/",
+  "_where": "/home/matt/dev/repo/personal/apps/node/wmod-api",
+  "author": {
+    "name": "Matt McCarty"
+  },
+  "bugs": {
+    "url": "https://github.com/mattmccarty/sso/issues"
+  },
+  "dependencies": {},
+  "description": "Single Sign-on for sails.js using passport and passport-sso",
+  "devDependencies": {},
+  "gitHead": "2c63cd8cf97a230f6a419b9e8389d6dcec4095e3",
+  "homepage": "https://github.com/mattmccarty/sso#readme",
+  "keywords": [
+    "Passport",
+    "SSO",
+    "Sails",
+    "auth",
+    "authentication",
+    "oauth"
+  ],
+  "license": "GPL-3.0",
+  "main": "index.js",
+  "name": "sso",
+  "optionalDependencies": {},
+  "readme": "# Passport-SSO for the Sails framework\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattmccarty/sso.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1",
+  "sails" : {
+    "isHook": true
+  }
+}
